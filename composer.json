@@ -1,6 +1,6 @@
 {
     "require": {
-        "smalot/pdfparser": "^0.18.2",
+        "smalot/pdfparser": "^2.12.5",
         "statickidz/php-google-translate-free": "^1.2"
     }
 }
