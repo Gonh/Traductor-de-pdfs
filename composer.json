@@ -1,4 +1,7 @@
 {
+    "name": "gonh/traductor-de-pdfs",
+    "description": "A PDF translator application",
+    "license": "proprietary",
     "require": {
         "smalot/pdfparser": "^2.12.5",
         "statickidz/php-google-translate-free": "^1.2"
